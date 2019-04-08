@@ -1,0 +1,716 @@
+{
+  "id": 12523,
+  "id64": 164098653,
+  "name": "Achenar",
+  "url": "https://www.edsm.net/en/system/bodies/id/12523/name/Achenar",
+  "bodyCount": 15,
+  "bodies": [
+    {
+      "id": 7259567,
+      "id64": 164098653,
+      "bodyId": 0,
+      "name": "Achenar",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Star",
+      "subType": "B (Blue-White) Star",
+      "parents": null,
+      "distanceToArrival": 0,
+      "isMainStar": true,
+      "isScoopable": true,
+      "age": 2,
+      "spectralClass": "B4",
+      "luminosity": "V",
+      "absoluteMagnitude": -2.517075,
+      "solarMasses": 9.714844,
+      "solarRadius": 4.069274777857657,
+      "surfaceTemperature": 23624,
+      "orbitalPeriod": null,
+      "semiMajorAxis": null,
+      "orbitalEccentricity": null,
+      "orbitalInclination": null,
+      "argOfPeriapsis": null,
+      "rotationalPeriod": 1.594992042824074,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.073172,
+      "updateTime": "2018-03-31 18:38:39"
+    },
+    {
+      "id": 3199327,
+      "id64": 36028797183062620,
+      "bodyId": 1,
+      "name": "Achenar 1",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Metal-rich body",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 755,
+      "isLandable": true,
+      "gravity": 0.6832386043596849,
+      "earthMasses": 0.09,
+      "radius": 2314.8325,
+      "surfaceTemperature": 1103,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Metal": 100,
+        "Ice": 0,
+        "Rock": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 146,
+      "semiMajorAxis": 1.514001168467166,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 357.5,
+      "argOfPeriapsis": 301.585876,
+      "rotationalPeriod": 1.1422379557291666,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.42614,
+      "materials": {
+        "Iron": 34.83,
+        "Nickel": 26.34,
+        "Chromium": 15.66,
+        "Manganese": 14.38,
+        "Cadmium": 2.7,
+        "Tin": 2.3,
+        "Ruthenium": 2.15,
+        "Germanium": 1.63
+      },
+      "updateTime": "2019-02-14 08:46:31"
+    },
+    {
+      "id": 3200139,
+      "id64": 72057594202026600,
+      "bodyId": 2,
+      "name": "Achenar 2",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Metal-rich body",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1261,
+      "isLandable": true,
+      "gravity": 1.4082348430760862,
+      "earthMasses": 1.22,
+      "radius": 5936.451,
+      "surfaceTemperature": 853,
+      "surfacePressure": null,
+      "volcanismType": "Major Metallic Magma",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Metal": 60,
+        "Rock": 40,
+        "Ice": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 316,
+      "semiMajorAxis": 2.5280019762206414,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 348.899994,
+      "argOfPeriapsis": 355.174927,
+      "rotationalPeriod": 0.6209559913888889,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.18415,
+      "materials": {
+        "Iron": 23.17,
+        "Nickel": 17.52,
+        "Sulphur": 12.6,
+        "Carbon": 10.6,
+        "Chromium": 10.42,
+        "Manganese": 9.57,
+        "Phosphorus": 6.79,
+        "Vanadium": 5.69,
+        "Niobium": 1.58,
+        "Tungsten": 1.27,
+        "Antimony": 0.79
+      },
+      "updateTime": "2019-02-14 08:46:31"
+    },
+    {
+      "id": 12945,
+      "id64": 108086391220990560,
+      "bodyId": 3,
+      "name": "Achenar 3",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 2336,
+      "isLandable": true,
+      "gravity": 6.732162356375041,
+      "earthMasses": 41.119995,
+      "radius": 15762.814,
+      "surfaceTemperature": 627,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 70,
+        "Metal": 30,
+        "Ice": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 657.45,
+      "semiMajorAxis": 4.681803398957068,
+      "orbitalEccentricity": 0,
+      "orbitalInclination": 0.2,
+      "argOfPeriapsis": 14.739678,
+      "rotationalPeriod": 0.5759856047453704,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.513294,
+      "materials": {
+        "Iron": 20.76,
+        "Nickel": 15.7,
+        "Sulphur": 15.13,
+        "Carbon": 12.73,
+        "Chromium": 9.33,
+        "Manganese": 8.57,
+        "Phosphorus": 8.15,
+        "Zinc": 5.64,
+        "Cadmium": 1.61,
+        "Yttrium": 1.24,
+        "Tungsten": 1.14
+      },
+      "updateTime": "2019-02-14 08:46:31"
+    },
+    {
+      "id": 7259564,
+      "id64": 144115188239954530,
+      "bodyId": 4,
+      "name": "Achenar 4",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Class III gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 5831,
+      "isLandable": false,
+      "gravity": 1.7246361907421281,
+      "earthMasses": 115.648582,
+      "radius": 52228.304,
+      "surfaceTemperature": 400,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 74.26,
+        "Helium": 25.74
+      },
+      "solidComposition": null,
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 3031.575,
+      "semiMajorAxis": 11.686007894389101,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 7.4,
+      "argOfPeriapsis": 171.464752,
+      "rotationalPeriod": 1.6908875868055555,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.067596,
+      "updateTime": "2018-03-14 15:52:31"
+    },
+    {
+      "id": 3197198,
+      "id64": 180143985258918500,
+      "bodyId": 5,
+      "name": "Achenar 4a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 4
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 5834,
+      "isLandable": true,
+      "gravity": 0.18361955235593547,
+      "earthMasses": 0.009,
+      "radius": 1412.03775,
+      "surfaceTemperature": 398,
+      "surfacePressure": 0,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 80,
+        "Metal": 20,
+        "Ice": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 9,
+      "semiMajorAxis": 0.0060000041163687494,
+      "orbitalEccentricity": 0,
+      "orbitalInclination": 0.2,
+      "argOfPeriapsis": 38.505302,
+      "rotationalPeriod": 9.108612557870371,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.445849,
+      "materials": {
+        "Iron": 20.6,
+        "Sulphur": 16.86,
+        "Nickel": 15.58,
+        "Carbon": 14.18,
+        "Chromium": 9.26,
+        "Phosphorus": 9.08,
+        "Manganese": 8.51,
+        "Arsenic": 2.24,
+        "Tin": 1.3,
+        "Ruthenium": 1.27,
+        "Tungsten": 1.13
+      },
+      "updateTime": "2019-03-28 00:07:31"
+    },
+    {
+      "id": 7259572,
+      "id64": 216172782277882460,
+      "bodyId": 6,
+      "name": "Achenar 5",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 12556,
+      "isLandable": false,
+      "gravity": 0.9327034079798093,
+      "earthMasses": 0.69,
+      "radius": 5485.766,
+      "surfaceTemperature": 804,
+      "surfacePressure": 124.39373303725635,
+      "volcanismType": "Major Rocky Magma",
+      "atmosphereType": "Hot thick Carbon dioxide",
+      "atmosphereComposition": {
+        "Carbon dioxide": 99.01,
+        "Sulphur dioxide": 0.99
+      },
+      "solidComposition": {
+        "Rock": 70,
+        "Metal": 30,
+        "Ice": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 13696.875555555556,
+      "semiMajorAxis": 25.162018674748424,
+      "orbitalEccentricity": null,
+      "orbitalInclination": null,
+      "argOfPeriapsis": 127.887741,
+      "rotationalPeriod": 1.3095608181481481,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.133974,
+      "updateTime": "2018-03-09 04:17:14"
+    },
+    {
+      "id": 7259569,
+      "id64": 252201579296846430,
+      "bodyId": 7,
+      "name": "Achenar 6",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Class III gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 20809,
+      "isLandable": false,
+      "gravity": 17.84478871626357,
+      "earthMasses": 2173.905273,
+      "radius": 70396.184,
+      "surfaceTemperature": 652,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 74.26,
+        "Helium": 25.74
+      },
+      "solidComposition": null,
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 28430,
+      "semiMajorAxis": 41.70002885689468,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 2.4,
+      "argOfPeriapsis": 339.640503,
+      "rotationalPeriod": 0.43626116717592594,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.020686,
+      "updateTime": "2018-03-14 15:52:31"
+    },
+    {
+      "id": 3207559,
+      "id64": 288230376315810370,
+      "bodyId": 8,
+      "name": "Yamaha's Grave",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 7
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 20798,
+      "isLandable": true,
+      "gravity": 0.10987329936913728,
+      "earthMasses": 0.002,
+      "radius": 860.5050625,
+      "surfaceTemperature": 247,
+      "surfacePressure": 0,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 80,
+        "Metal": 20,
+        "Ice": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 20,
+      "semiMajorAxis": 0.027000019807100102,
+      "orbitalEccentricity": 0,
+      "orbitalInclination": 2,
+      "argOfPeriapsis": 259.090515,
+      "rotationalPeriod": 1.680083912037037,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.083025,
+      "materials": {
+        "Iron": 19.94,
+        "Sulphur": 16.32,
+        "Nickel": 15.08,
+        "Carbon": 13.73,
+        "Chromium": 8.97,
+        "Phosphorus": 8.79,
+        "Manganese": 8.23,
+        "Zinc": 5.42,
+        "Cadmium": 1.55,
+        "Tin": 1.26,
+        "Technetium": 0.71
+      },
+      "updateTime": "2019-03-27 00:09:43"
+    },
+    {
+      "id": 7259563,
+      "id64": 324259173334774330,
+      "bodyId": 9,
+      "name": "New World",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Earth-like world",
+      "parents": [
+        {
+          "Planet": 7
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 20838,
+      "isLandable": false,
+      "gravity": 0.5817868206789502,
+      "earthMasses": 0.2,
+      "radius": 3739.53475,
+      "surfaceTemperature": 267,
+      "surfacePressure": 0.2505790078361707,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Suitable for water-based life",
+      "atmosphereComposition": {
+        "Oxygen": 59.86,
+        "Nitrogen": 39.91,
+        "Carbon dioxide": 0.16
+      },
+      "solidComposition": {
+        "Rock": 70,
+        "Metal": 30,
+        "Ice": 0
+      },
+      "terraformingState": "Terraformed",
+      "orbitalPeriod": 70,
+      "semiMajorAxis": 0.06200004396185567,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 7.3,
+      "argOfPeriapsis": 345.009766,
+      "rotationalPeriod": 0.8512863498263888,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.49448,
+      "updateTime": "2019-03-24 18:17:27"
+    },
+    {
+      "id": 7259570,
+      "id64": 360287970353738300,
+      "bodyId": 10,
+      "name": "Conversion",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Earth-like world",
+      "parents": [
+        {
+          "Planet": 7
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 20845,
+      "isLandable": false,
+      "gravity": 0.9055434962107669,
+      "earthMasses": 0.64,
+      "radius": 5361.914,
+      "surfaceTemperature": 316,
+      "surfacePressure": 0.8946710769800148,
+      "volcanismType": "Rocky Magma",
+      "atmosphereType": "Suitable for water-based life",
+      "atmosphereComposition": {
+        "Nitrogen": 70.64,
+        "Oxygen": 27.94,
+        "Water": 1.35
+      },
+      "solidComposition": {
+        "Rock": 70,
+        "Metal": 30,
+        "Ice": 0
+      },
+      "terraformingState": "Terraformed",
+      "orbitalPeriod": 236,
+      "semiMajorAxis": 0.13700008985488857,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 358.899994,
+      "argOfPeriapsis": 110.469505,
+      "rotationalPeriod": 1.8800811993634258,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.439657,
+      "updateTime": "2019-03-27 22:59:40"
+    },
+    {
+      "id": 7259558,
+      "id64": 396316767372702300,
+      "bodyId": 11,
+      "name": "Capitol",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Earth-like world",
+      "parents": [
+        {
+          "Planet": 7
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 20668,
+      "isLandable": false,
+      "gravity": 1.404181216504266,
+      "earthMasses": 1.883421,
+      "radius": 7386.635,
+      "surfaceTemperature": 288,
+      "surfacePressure": 1.0459856896126327,
+      "volcanismType": "Rocky Magma",
+      "atmosphereType": "Suitable for water-based life",
+      "atmosphereComposition": {
+        "Nitrogen": 77.89,
+        "Oxygen": 20.89,
+        "Argon": 0.93
+      },
+      "solidComposition": {
+        "Rock": 70,
+        "Metal": 30,
+        "Ice": 0
+      },
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 823,
+      "semiMajorAxis": 0.3200002286663563,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 5.2,
+      "argOfPeriapsis": 239.665512,
+      "rotationalPeriod": 0.661791223599537,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.438422,
+      "updateTime": "2019-03-20 03:32:14"
+    },
+    {
+      "id": 7259556,
+      "id64": 432345564391666240,
+      "bodyId": 12,
+      "name": "Achenar 7",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Class II gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 42368,
+      "isLandable": false,
+      "gravity": 2.112487619174219,
+      "earthMasses": 71.09819,
+      "radius": 37001.276,
+      "surfaceTemperature": 150,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 74.26,
+        "Helium": 25.74
+      },
+      "solidComposition": null,
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 61690.72592592592,
+      "semiMajorAxis": 84.90405672406405,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 6.3,
+      "argOfPeriapsis": 147.934464,
+      "rotationalPeriod": 1.615087890625,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.41477,
+      "updateTime": "2018-03-14 15:52:31"
+    },
+    {
+      "id": 7259557,
+      "id64": 468374361410630200,
+      "bodyId": 13,
+      "name": "Achenar 8",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Class I gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 119254,
+      "isLandable": false,
+      "gravity": 1.8900510450004513,
+      "earthMasses": 95.088257,
+      "radius": 45238.812,
+      "surfaceTemperature": 94,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 74.26,
+        "Helium": 25.74
+      },
+      "solidComposition": null,
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 291396.4325925926,
+      "semiMajorAxis": 238.98416143304104,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 351.200012,
+      "argOfPeriapsis": 251.193024,
+      "rotationalPeriod": 0.9872166160300926,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.171539,
+      "updateTime": "2018-03-14 15:52:31"
+    },
+    {
+      "id": 7259560,
+      "id64": 504403158429594200,
+      "bodyId": 14,
+      "name": "Achenar 9",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 21:46:50"
+      },
+      "type": "Planet",
+      "subType": "Class IV gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 202596,
+      "isLandable": false,
+      "gravity": 59.054818125597414,
+      "earthMasses": 4893.991699,
+      "radius": 58061.528,
+      "surfaceTemperature": 1303,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 74.26,
+        "Helium": 25.74
+      },
+      "solidComposition": null,
+      "terraformingState": "Not terraformable",
+      "orbitalPeriod": 645761.9911111111,
+      "semiMajorAxis": 406.00027537627244,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 354.5,
+      "argOfPeriapsis": 211.161911,
+      "rotationalPeriod": 1.4644672309027777,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.15074,
+      "updateTime": "2018-03-14 15:52:31"
+    }
+  ]
+}

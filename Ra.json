@@ -1,0 +1,2834 @@
+{
+  "id": 6690,
+  "id64": 3274652502379,
+  "name": "Ra",
+  "url": "https://www.edsm.net/en/system/bodies/id/6690/name/Ra",
+  "bodyCount": 52,
+  "bodies": [
+    {
+      "id": 8138278,
+      "id64": 3274652502379,
+      "bodyId": 0,
+      "name": "Ra",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Star",
+      "subType": "G (White-Yellow) Star",
+      "parents": null,
+      "distanceToArrival": 0,
+      "isMainStar": true,
+      "isScoopable": true,
+      "age": 2958,
+      "spectralClass": "G7",
+      "luminosity": "V",
+      "absoluteMagnitude": 5.200348,
+      "solarMasses": 0.921875,
+      "solarRadius": 0.9703063465132998,
+      "surfaceTemperature": 5386,
+      "orbitalPeriod": null,
+      "semiMajorAxis": null,
+      "orbitalEccentricity": null,
+      "orbitalInclination": null,
+      "argOfPeriapsis": null,
+      "rotationalPeriod": 4.089096498842593,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": null,
+      "belts": [
+        {
+          "name": "Ra A Belt",
+          "type": "Rocky",
+          "mass": 13052000000,
+          "innerRadius": 1171700,
+          "outerRadius": 2348500
+        }
+      ],
+      "updateTime": "2018-04-09 22:16:35"
+    },
+    {
+      "id": 8138233,
+      "id64": 468377635899034000,
+      "bodyId": 13,
+      "name": "Ra 1",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 31,
+      "isLandable": true,
+      "gravity": 0.09622098046253254,
+      "earthMasses": 0.001094,
+      "radius": 680.0773125,
+      "surfaceTemperature": 926,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 66.59,
+        "Metal": 33.41,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 5.603974609375,
+      "semiMajorAxis": 0.06137703787517879,
+      "orbitalEccentricity": 0.000005,
+      "orbitalInclination": 0.01152,
+      "argOfPeriapsis": 101.871338,
+      "rotationalPeriod": 5.783969907407408,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.252335,
+      "materials": {
+        "Iron": 23.09,
+        "Nickel": 17.47,
+        "Sulphur": 16.16,
+        "Carbon": 13.59,
+        "Manganese": 9.54,
+        "Phosphorus": 8.7,
+        "Germanium": 4.79,
+        "Selenium": 2.53,
+        "Cadmium": 1.79,
+        "Molybdenum": 1.51,
+        "Technetium": 0.83
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138284,
+      "id64": 504406432917997950,
+      "bodyId": 14,
+      "name": "Ra 2",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 55,
+      "isLandable": true,
+      "gravity": 0.403520533323273,
+      "earthMasses": 0.068184,
+      "radius": 2621.76,
+      "surfaceTemperature": 689,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 65.42,
+        "Metal": 34.58,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 13.59001880787037,
+      "semiMajorAxis": 0.11078692531149776,
+      "orbitalEccentricity": 0.000001,
+      "orbitalInclination": -0.000452,
+      "argOfPeriapsis": 114.686005,
+      "rotationalPeriod": -14.026519097222221,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 1.580242,
+      "materials": {
+        "Iron": 22.36,
+        "Nickel": 16.92,
+        "Sulphur": 15.47,
+        "Carbon": 13.01,
+        "Chromium": 10.06,
+        "Phosphorus": 8.33,
+        "Vanadium": 5.49,
+        "Germanium": 4.59,
+        "Molybdenum": 1.46,
+        "Yttrium": 1.34,
+        "Mercury": 0.98
+      },
+      "updateTime": "2019-02-14 16:11:15"
+    },
+    {
+      "id": 8138288,
+      "id64": 540435229936961900,
+      "bodyId": 15,
+      "name": "Ra 2 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 14
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 55,
+      "isLandable": true,
+      "gravity": 0.13667492907514633,
+      "earthMasses": 0.004146,
+      "radius": 1110.84825,
+      "surfaceTemperature": 689,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 85.79,
+        "Metal": 14.21,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 0.30373037833333333,
+      "semiMajorAxis": 0.00005315800594479986,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 78.966049,
+      "argOfPeriapsis": 94.401421,
+      "rotationalPeriod": 0.3128280752662037,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.276623,
+      "materials": {
+        "Iron": 21.24,
+        "Sulphur": 18.77,
+        "Nickel": 16.07,
+        "Carbon": 15.78,
+        "Phosphorus": 10.1,
+        "Manganese": 8.77,
+        "Arsenic": 2.49,
+        "Zirconium": 2.47,
+        "Cadmium": 1.65,
+        "Molybdenum": 1.39,
+        "Yttrium": 1.27
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138282,
+      "id64": 576464026955925900,
+      "bodyId": 16,
+      "name": "Ra 3",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 94,
+      "isLandable": true,
+      "gravity": 2.7823720712759487,
+      "earthMasses": 8.044565,
+      "radius": 10844.966,
+      "surfaceTemperature": 528,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 66.09,
+        "Metal": 33.91,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 30.262858796296296,
+      "semiMajorAxis": 0.18892166737236857,
+      "orbitalEccentricity": 0.000015,
+      "orbitalInclination": 0.018434,
+      "argOfPeriapsis": 182.042282,
+      "rotationalPeriod": 31.234875578703704,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -1.067051,
+      "materials": {
+        "Iron": 21.4,
+        "Nickel": 16.18,
+        "Sulphur": 14.9,
+        "Carbon": 12.53,
+        "Chromium": 9.62,
+        "Manganese": 8.84,
+        "Phosphorus": 8.02,
+        "Vanadium": 5.25,
+        "Tin": 1.38,
+        "Mercury": 0.93,
+        "Antimony": 0.93
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138269,
+      "id64": 612492823974889800,
+      "bodyId": 17,
+      "name": "Ra 3 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 16
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 95,
+      "isLandable": true,
+      "gravity": 0.5419280207448214,
+      "earthMasses": 0.207643,
+      "radius": 3947.9565,
+      "surfaceTemperature": 528,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 85.79,
+        "Metal": 14.21,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 3.4620949074074074,
+      "semiMajorAxis": 0.0013058283188518672,
+      "orbitalEccentricity": null,
+      "orbitalInclination": 45.478184,
+      "argOfPeriapsis": 227.665634,
+      "rotationalPeriod": 3.5064916087962965,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.133822,
+      "materials": {
+        "Iron": 19.41,
+        "Sulphur": 17.15,
+        "Nickel": 14.68,
+        "Carbon": 14.42,
+        "Phosphorus": 9.23,
+        "Chromium": 8.73,
+        "Manganese": 8.02,
+        "Zinc": 5.27,
+        "Cadmium": 1.51,
+        "Tungsten": 1.07,
+        "Polonium": 0.52
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138263,
+      "id64": 648521620993853800,
+      "bodyId": 18,
+      "name": "Ra 4",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 131,
+      "isLandable": true,
+      "gravity": 2.3586035051094285,
+      "earthMasses": 5.751209,
+      "radius": 9959.479,
+      "surfaceTemperature": 448,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 66.59,
+        "Metal": 33.41,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 49.588686342592595,
+      "semiMajorAxis": 0.2625811303342301,
+      "orbitalEccentricity": 0.000133,
+      "orbitalInclination": -0.0016,
+      "argOfPeriapsis": 293.903137,
+      "rotationalPeriod": 51.18142939814815,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.068452,
+      "materials": {
+        "Iron": 22.07,
+        "Nickel": 16.69,
+        "Sulphur": 15.45,
+        "Carbon": 12.99,
+        "Manganese": 9.11,
+        "Phosphorus": 8.32,
+        "Zinc": 6,
+        "Vanadium": 5.42,
+        "Tin": 1.42,
+        "Yttrium": 1.32,
+        "Tungsten": 1.21
+      },
+      "updateTime": "2019-03-31 18:27:53"
+    },
+    {
+      "id": 8138268,
+      "id64": 684550418012817800,
+      "bodyId": 19,
+      "name": "Ra 5",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "High metal content world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 172,
+      "isLandable": false,
+      "gravity": 2.197655416898344,
+      "earthMasses": 4.947331,
+      "radius": 9569.521,
+      "surfaceTemperature": 1428,
+      "surfacePressure": 656.9416037503084,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "Hot thick Carbon dioxide",
+      "atmosphereComposition": {
+        "Carbon dioxide": 99.01,
+        "Sulphur dioxide": 0.99
+      },
+      "solidComposition": {
+        "Rock": 66.59,
+        "Metal": 33.41,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 74.66776041666666,
+      "semiMajorAxis": 0.3449561483631465,
+      "orbitalEccentricity": 0.000308,
+      "orbitalInclination": 0.065112,
+      "argOfPeriapsis": 103.344994,
+      "rotationalPeriod": 77.0660300925926,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.17984,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138239,
+      "id64": 720579215031781700,
+      "bodyId": 20,
+      "name": "Ra 6",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Earth-like world",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 335,
+      "isLandable": false,
+      "gravity": 1.6633546882229581,
+      "earthMasses": 2.66613,
+      "radius": 8074.818,
+      "surfaceTemperature": 341,
+      "surfacePressure": 1.2560119818702195,
+      "volcanismType": "Metallic Magma",
+      "atmosphereType": "Suitable for water-based life",
+      "atmosphereComposition": {
+        "Nitrogen": 83.61,
+        "Oxygen": 15.92,
+        "Carbon dioxide": 0.45
+      },
+      "solidComposition": {
+        "Rock": 66.59,
+        "Metal": 33.41,
+        "Ice": 0
+      },
+      "terraformingState": "Terraformed",
+      "orbitalPeriod": 202.9810185185185,
+      "semiMajorAxis": 0.6719115442597004,
+      "orbitalEccentricity": 0.001078,
+      "orbitalInclination": 0.133746,
+      "argOfPeriapsis": 248.89444,
+      "rotationalPeriod": 209.50060185185185,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.495387,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138260,
+      "id64": 756608012050745700,
+      "bodyId": 21,
+      "name": "Ra 7",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Class II gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 455,
+      "isLandable": false,
+      "gravity": 1.6462523894146095,
+      "earthMasses": 8.587989,
+      "radius": 14567.4,
+      "surfaceTemperature": 236,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 71.1,
+        "Helium": 28.9
+      },
+      "solidComposition": null,
+      "terraformingState": null,
+      "orbitalPeriod": 320.6876388888889,
+      "semiMajorAxis": 0.9114438862130141,
+      "orbitalEccentricity": 0.000366,
+      "orbitalInclination": -0.028717,
+      "argOfPeriapsis": 220.317749,
+      "rotationalPeriod": 1.0659898546064814,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -1.3308,
+      "rings": [
+        {
+          "name": "Ra 7 A Ring",
+          "type": "Metal Rich",
+          "mass": 9537600000,
+          "innerRadius": 36654,
+          "outerRadius": 40587
+        },
+        {
+          "name": "Ra 7 B Ring",
+          "type": "Metal Rich",
+          "mass": 139300000000,
+          "innerRadius": 40687,
+          "outerRadius": 78005
+        }
+      ],
+      "reserveLevel": "Common",
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138251,
+      "id64": 864694403107637600,
+      "bodyId": 24,
+      "name": "Ra 7 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 21
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 454,
+      "isLandable": true,
+      "gravity": 0.09676478005905255,
+      "earthMasses": 0.001618,
+      "radius": 824.7363125,
+      "surfaceTemperature": 240,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 2.2738084129050926,
+      "semiMajorAxis": 0.001000000757363721,
+      "orbitalEccentricity": 0.000173,
+      "orbitalInclination": 0.009848,
+      "argOfPeriapsis": 17.653692,
+      "rotationalPeriod": 2.274310257523148,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.33214,
+      "materials": {
+        "Iron": 18.69,
+        "Sulphur": 18.05,
+        "Carbon": 15.18,
+        "Nickel": 14.14,
+        "Phosphorus": 9.72,
+        "Chromium": 8.41,
+        "Manganese": 7.72,
+        "Germanium": 5.35,
+        "Molybdenum": 1.22,
+        "Tungsten": 1.03,
+        "Polonium": 0.48
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138256,
+      "id64": 900723200126601600,
+      "bodyId": 25,
+      "name": "Ra 7 b",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 21
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 455,
+      "isLandable": true,
+      "gravity": 0.05345278318106888,
+      "earthMasses": 0.000279,
+      "radius": 460.7883125,
+      "surfaceTemperature": 240,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 2.9126667390046297,
+      "semiMajorAxis": 0.0011794828841771743,
+      "orbitalEccentricity": 0.001232,
+      "orbitalInclination": 0.044468,
+      "argOfPeriapsis": 154.648758,
+      "rotationalPeriod": 2.913309642650463,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.512056,
+      "materials": {
+        "Iron": 19.27,
+        "Sulphur": 18.61,
+        "Carbon": 15.65,
+        "Nickel": 14.57,
+        "Phosphorus": 10.02,
+        "Chromium": 8.67,
+        "Germanium": 5.52,
+        "Vanadium": 4.73,
+        "Niobium": 1.32,
+        "Tin": 1.15,
+        "Polonium": 0.5
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138285,
+      "id64": 936751997145565600,
+      "bodyId": 26,
+      "name": "Ra 7 c",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 21
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 455,
+      "isLandable": true,
+      "gravity": 0.05630521185504089,
+      "earthMasses": 0.000326,
+      "radius": 485.30975,
+      "surfaceTemperature": 240,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 3.8969397424768517,
+      "semiMajorAxis": 0.001432122629804249,
+      "orbitalEccentricity": 0.001063,
+      "orbitalInclination": 2.334365,
+      "argOfPeriapsis": 52.674267,
+      "rotationalPeriod": 3.897799479166667,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.211845,
+      "materials": {
+        "Iron": 20,
+        "Sulphur": 19.32,
+        "Carbon": 16.24,
+        "Nickel": 15.13,
+        "Phosphorus": 10.4,
+        "Manganese": 8.26,
+        "Vanadium": 4.91,
+        "Zirconium": 2.32,
+        "Molybdenum": 1.31,
+        "Ruthenium": 1.24,
+        "Mercury": 0.87
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138275,
+      "id64": 972780794164529500,
+      "bodyId": 27,
+      "name": "Ra 7 d",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 21
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 454,
+      "isLandable": true,
+      "gravity": 0.05778955473883496,
+      "earthMasses": 0.000352,
+      "radius": 497.7728125,
+      "surfaceTemperature": 240,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 4.812628399884259,
+      "semiMajorAxis": 0.0016484885971040762,
+      "orbitalEccentricity": 0.001699,
+      "orbitalInclination": -0.162205,
+      "argOfPeriapsis": 254.790512,
+      "rotationalPeriod": 4.81369068287037,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.449591,
+      "materials": {
+        "Iron": 19.79,
+        "Sulphur": 19.11,
+        "Carbon": 16.07,
+        "Nickel": 14.97,
+        "Phosphorus": 10.29,
+        "Chromium": 8.9,
+        "Germanium": 5.67,
+        "Zirconium": 2.3,
+        "Cadmium": 1.54,
+        "Mercury": 0.86,
+        "Polonium": 0.51
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138301,
+      "id64": 1008809591183493500,
+      "bodyId": 28,
+      "name": "Ra 7 e",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 21
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 454,
+      "isLandable": true,
+      "gravity": 0.05490745440101544,
+      "earthMasses": 0.000301,
+      "radius": 472.22840625,
+      "surfaceTemperature": 240,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 6.436695601851852,
+      "semiMajorAxis": 0.002001119605507861,
+      "orbitalEccentricity": 0.009187,
+      "orbitalInclination": 1.709026,
+      "argOfPeriapsis": 39.960194,
+      "rotationalPeriod": 6.438115596064815,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.00458,
+      "materials": {
+        "Iron": 20.53,
+        "Sulphur": 19.83,
+        "Carbon": 16.67,
+        "Nickel": 15.53,
+        "Phosphorus": 10.68,
+        "Manganese": 8.48,
+        "Arsenic": 2.63,
+        "Zirconium": 2.38,
+        "Niobium": 1.4,
+        "Tungsten": 1.13,
+        "Technetium": 0.73
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138261,
+      "id64": 1044838388202457500,
+      "bodyId": 29,
+      "name": "Ra 7 f",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 21
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 456,
+      "isLandable": true,
+      "gravity": 0.07842528815262424,
+      "earthMasses": 0.00087,
+      "radius": 671.763,
+      "surfaceTemperature": 240,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 17.377408854166667,
+      "semiMajorAxis": 0.00387990506338136,
+      "orbitalEccentricity": 0.003028,
+      "orbitalInclination": -7.078109,
+      "argOfPeriapsis": 354.108154,
+      "rotationalPeriod": 17.38124421296296,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.123426,
+      "materials": {
+        "Iron": 19.77,
+        "Sulphur": 19.09,
+        "Carbon": 16.05,
+        "Nickel": 14.95,
+        "Phosphorus": 10.28,
+        "Manganese": 8.16,
+        "Germanium": 5.66,
+        "Zirconium": 2.3,
+        "Niobium": 1.35,
+        "Ruthenium": 1.22,
+        "Tin": 1.18
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138280,
+      "id64": 1116895982240385400,
+      "bodyId": 31,
+      "name": "Ra 8",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Gas giant with water-based life",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 605,
+      "isLandable": false,
+      "gravity": 1.1797809234472771,
+      "earthMasses": 22.162434,
+      "radius": 27643.47,
+      "surfaceTemperature": 205,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 71.06,
+        "Helium": 28.88
+      },
+      "solidComposition": null,
+      "terraformingState": null,
+      "orbitalPeriod": 491.4886574074074,
+      "semiMajorAxis": 1.2115763702778423,
+      "orbitalEccentricity": 0.000131,
+      "orbitalInclination": 0.176207,
+      "argOfPeriapsis": 286.25412,
+      "rotationalPeriod": 1.6850687210648147,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 2.758977,
+      "rings": [
+        {
+          "name": "Ra 8 A Ring",
+          "type": "Metal Rich",
+          "mass": 246460000000,
+          "innerRadius": 45612,
+          "outerRadius": 102400
+        }
+      ],
+      "reserveLevel": "Common",
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138277,
+      "id64": 1224982373297277200,
+      "bodyId": 34,
+      "name": "Ra 8 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Null": 33
+        },
+        {
+          "Planet": 31
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 605,
+      "isLandable": true,
+      "gravity": 0.0518052262558571,
+      "earthMasses": 0.000254,
+      "radius": 446.59575,
+      "surfaceTemperature": 208,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 0.4286281557407407,
+      "semiMajorAxis": 0.000004574564191975494,
+      "orbitalEccentricity": 0.073498,
+      "orbitalInclination": -9.634264,
+      "argOfPeriapsis": 3.465908,
+      "rotationalPeriod": 0.6925869411921296,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.14098,
+      "materials": {
+        "Iron": 19.75,
+        "Sulphur": 19.07,
+        "Carbon": 16.04,
+        "Nickel": 14.93,
+        "Phosphorus": 10.27,
+        "Chromium": 8.88,
+        "Vanadium": 4.85,
+        "Zirconium": 2.29,
+        "Tellurium": 1.46,
+        "Molybdenum": 1.29,
+        "Tin": 1.17
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138252,
+      "id64": 1261011170316241100,
+      "bodyId": 35,
+      "name": "Ra 8 b",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Null": 33
+        },
+        {
+          "Planet": 31
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 605,
+      "isLandable": true,
+      "gravity": 0.04423360185355034,
+      "earthMasses": 0.000158,
+      "radius": 381.18596875,
+      "surfaceTemperature": 208,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 0.4286281557407407,
+      "semiMajorAxis": 0.000007369082159001612,
+      "orbitalEccentricity": 0.073498,
+      "orbitalInclination": -9.634264,
+      "argOfPeriapsis": 183.465897,
+      "rotationalPeriod": 0.5456855830439815,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.337967,
+      "materials": {
+        "Iron": 20.37,
+        "Sulphur": 19.67,
+        "Carbon": 16.54,
+        "Nickel": 15.41,
+        "Phosphorus": 10.59,
+        "Manganese": 8.41,
+        "Selenium": 3.08,
+        "Zirconium": 2.37,
+        "Antimony": 1.23,
+        "Tin": 1.21,
+        "Tungsten": 1.12
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138259,
+      "id64": 1297039967335205000,
+      "bodyId": 36,
+      "name": "Ra 8 c",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 31
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 605,
+      "isLandable": true,
+      "gravity": 0.05008962802880043,
+      "earthMasses": 0.000229,
+      "radius": 431.24925,
+      "surfaceTemperature": 208,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 4.182366174768519,
+      "semiMajorAxis": 0.002058895187202688,
+      "orbitalEccentricity": 0.003512,
+      "orbitalInclination": -0.015853,
+      "argOfPeriapsis": 45.539116,
+      "rotationalPeriod": 4.092331452546296,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.015212,
+      "materials": {
+        "Iron": 18.6,
+        "Sulphur": 17.97,
+        "Carbon": 15.11,
+        "Nickel": 14.07,
+        "Phosphorus": 9.67,
+        "Chromium": 8.37,
+        "Manganese": 7.68,
+        "Zinc": 5.06,
+        "Molybdenum": 1.21,
+        "Ruthenium": 1.15,
+        "Tin": 1.11
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138265,
+      "id64": 1333068764354169000,
+      "bodyId": 37,
+      "name": "Ra 8 d",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 31
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 604,
+      "isLandable": true,
+      "gravity": 0.06224664985368039,
+      "earthMasses": 0.000435,
+      "radius": 533.1766875,
+      "surfaceTemperature": 208,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.49,
+        "Metal": 9.51,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 5.778608940972222,
+      "semiMajorAxis": 0.002554083411830273,
+      "orbitalEccentricity": 0.009391,
+      "orbitalInclination": -0.596796,
+      "argOfPeriapsis": 207.96347,
+      "rotationalPeriod": -5.679168836805555,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -2.420794,
+      "materials": {
+        "Iron": 19.19,
+        "Sulphur": 18.39,
+        "Carbon": 15.47,
+        "Nickel": 14.52,
+        "Phosphorus": 9.9,
+        "Chromium": 8.63,
+        "Manganese": 7.93,
+        "Zirconium": 2.23,
+        "Niobium": 1.31,
+        "Molybdenum": 1.25,
+        "Ruthenium": 1.19
+      },
+      "updateTime": "2019-02-14 16:11:15"
+    },
+    {
+      "id": 8138271,
+      "id64": 1369097561373133000,
+      "bodyId": 38,
+      "name": "Ra 8 e",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 31
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 603,
+      "isLandable": true,
+      "gravity": 0.04583478369058064,
+      "earthMasses": 0.000177,
+      "radius": 396.34515625,
+      "surfaceTemperature": 208,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 8.96865234375,
+      "semiMajorAxis": 0.0034237683036754613,
+      "orbitalEccentricity": 0.010309,
+      "orbitalInclination": -0.453207,
+      "argOfPeriapsis": 198.676071,
+      "rotationalPeriod": 8.856461226851852,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.418044,
+      "materials": {
+        "Iron": 19.25,
+        "Sulphur": 18.59,
+        "Carbon": 15.64,
+        "Nickel": 14.56,
+        "Phosphorus": 10.01,
+        "Manganese": 7.95,
+        "Germanium": 5.52,
+        "Zinc": 5.23,
+        "Cadmium": 1.5,
+        "Tungsten": 1.06,
+        "Technetium": 0.69
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138293,
+      "id64": 1405126358392097000,
+      "bodyId": 39,
+      "name": "Ra 8 f",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 31
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 602,
+      "isLandable": true,
+      "gravity": 0.04668215364025086,
+      "earthMasses": 0.000186,
+      "radius": 402.592375,
+      "surfaceTemperature": 208,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 16.682413194444443,
+      "semiMajorAxis": 0.005178358624859759,
+      "orbitalEccentricity": 0.002058,
+      "orbitalInclination": 6.742046,
+      "argOfPeriapsis": 90.321487,
+      "rotationalPeriod": 16.553414351851852,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.398561,
+      "materials": {
+        "Iron": 20.19,
+        "Sulphur": 19.5,
+        "Carbon": 16.4,
+        "Nickel": 15.27,
+        "Phosphorus": 10.5,
+        "Chromium": 9.08,
+        "Selenium": 3.05,
+        "Arsenic": 2.59,
+        "Molybdenum": 1.32,
+        "Yttrium": 1.21,
+        "Mercury": 0.88
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138289,
+      "id64": 1477183952430025000,
+      "bodyId": 41,
+      "name": "Ra 9",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Gas giant with water-based life",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 824,
+      "isLandable": false,
+      "gravity": 0.9209636714828963,
+      "earthMasses": 32.621265,
+      "radius": 37958.904,
+      "surfaceTemperature": 177,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 71.06,
+        "Helium": 28.88
+      },
+      "solidComposition": null,
+      "terraformingState": null,
+      "orbitalPeriod": 784.4377777777778,
+      "semiMajorAxis": 1.6546804003140132,
+      "orbitalEccentricity": 0.005647,
+      "orbitalInclination": 0.511928,
+      "argOfPeriapsis": 185.818771,
+      "rotationalPeriod": 1.891278935185185,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.484591,
+      "rings": [
+        {
+          "name": "Ra 9 A Ring",
+          "type": "Metal Rich",
+          "mass": 197690000000,
+          "innerRadius": 59839,
+          "outerRadius": 111240
+        }
+      ],
+      "reserveLevel": "Common",
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138296,
+      "id64": 1549241546467953000,
+      "bodyId": 43,
+      "name": "Ra 9 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 41
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 824,
+      "isLandable": false,
+      "gravity": 0.05335394573161184,
+      "earthMasses": 0.000277,
+      "radius": 459.55884375,
+      "surfaceTemperature": 179,
+      "surfacePressure": null,
+      "volcanismType": "Major Rocky Magma",
+      "atmosphereType": "Sulphur dioxide",
+      "atmosphereComposition": {
+        "Sulphur dioxide": 90,
+        "Silicates": 5,
+        "Oxygen": 3
+      },
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 1.8801244212962962,
+      "semiMajorAxis": 0.0013743661927669401,
+      "orbitalEccentricity": 0.000018,
+      "orbitalInclination": 0.258129,
+      "argOfPeriapsis": 205.965851,
+      "rotationalPeriod": 1.8801750578703704,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.140494,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138273,
+      "id64": 1585270343486916800,
+      "bodyId": 44,
+      "name": "Ra 9 b",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 41
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 824,
+      "isLandable": true,
+      "gravity": 0.0647226226955937,
+      "earthMasses": 0.000491,
+      "radius": 555.5168125,
+      "surfaceTemperature": 178,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 8.126101707175925,
+      "semiMajorAxis": 0.0036466961825546893,
+      "orbitalEccentricity": 0.003763,
+      "orbitalInclination": 0.119507,
+      "argOfPeriapsis": 236.460648,
+      "rotationalPeriod": 8.126320891203704,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.141693,
+      "materials": {
+        "Iron": 18.98,
+        "Sulphur": 18.33,
+        "Carbon": 15.41,
+        "Nickel": 14.35,
+        "Phosphorus": 9.87,
+        "Chromium": 8.53,
+        "Manganese": 7.84,
+        "Selenium": 2.87,
+        "Tellurium": 1.41,
+        "Niobium": 1.3,
+        "Tin": 1.13
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138236,
+      "id64": 1621299140505880800,
+      "bodyId": 45,
+      "name": "Ra 9 c",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 41
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 824,
+      "isLandable": true,
+      "gravity": 0.07244381432401918,
+      "earthMasses": 0.000688,
+      "radius": 621.552875,
+      "surfaceTemperature": 178,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 12.027810329861111,
+      "semiMajorAxis": 0.004736262920619231,
+      "orbitalEccentricity": 0.014163,
+      "orbitalInclination": -0.032823,
+      "argOfPeriapsis": 61.542431,
+      "rotationalPeriod": 12.028134403935185,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.464395,
+      "materials": {
+        "Iron": 19.7,
+        "Sulphur": 19.03,
+        "Carbon": 16,
+        "Nickel": 14.9,
+        "Phosphorus": 10.24,
+        "Manganese": 8.14,
+        "Germanium": 5.64,
+        "Arsenic": 2.52,
+        "Tellurium": 1.46,
+        "Molybdenum": 1.29,
+        "Tungsten": 1.08
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138270,
+      "id64": 1801443125600700600,
+      "bodyId": 50,
+      "name": "Ra 10",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Class III gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1218,
+      "isLandable": false,
+      "gravity": 10.736392622489525,
+      "earthMasses": 1463.720093,
+      "radius": 74470.512,
+      "surfaceTemperature": 416,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 71.1,
+        "Helium": 28.9
+      },
+      "solidComposition": null,
+      "terraformingState": null,
+      "orbitalPeriod": 1403.515925925926,
+      "semiMajorAxis": 2.4386717635814583,
+      "orbitalEccentricity": 0.000646,
+      "orbitalInclination": -0.3558,
+      "argOfPeriapsis": 94.992905,
+      "rotationalPeriod": 0.5841939290393519,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -1.589281,
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138250,
+      "id64": 1837471922619664600,
+      "bodyId": 51,
+      "name": "Ra 10 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 50
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1222,
+      "isLandable": true,
+      "gravity": 0.19244071642659036,
+      "earthMasses": 0.012118,
+      "radius": 1600.484625,
+      "surfaceTemperature": 189,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 4.157791160300926,
+      "semiMajorAxis": 0.008289680342355301,
+      "orbitalEccentricity": 0.000123,
+      "orbitalInclination": 0.30466,
+      "argOfPeriapsis": 88.549751,
+      "rotationalPeriod": 4.157886284722222,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.375456,
+      "materials": {
+        "Iron": 18.48,
+        "Sulphur": 17.85,
+        "Carbon": 15.01,
+        "Nickel": 13.98,
+        "Phosphorus": 9.61,
+        "Chromium": 8.31,
+        "Manganese": 7.63,
+        "Germanium": 5.29,
+        "Cadmium": 1.44,
+        "Tellurium": 1.37,
+        "Tungsten": 1.01
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138264,
+      "id64": 1873500719638628600,
+      "bodyId": 52,
+      "name": "Ra 10 b",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 50
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1218,
+      "isLandable": true,
+      "gravity": 0.11993325424307374,
+      "earthMasses": 0.003047,
+      "radius": 1016.6019375,
+      "surfaceTemperature": 183,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 6.631579861111111,
+      "semiMajorAxis": 0.011316375828603288,
+      "orbitalEccentricity": 0.000038,
+      "orbitalInclination": -0.069366,
+      "argOfPeriapsis": 106.385765,
+      "rotationalPeriod": 6.631732494212963,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.3399,
+      "materials": {
+        "Iron": 21.68,
+        "Sulphur": 20.94,
+        "Carbon": 17.6,
+        "Nickel": 16.4,
+        "Phosphorus": 11.27,
+        "Selenium": 3.28,
+        "Arsenic": 2.78,
+        "Zirconium": 2.52,
+        "Niobium": 1.48,
+        "Tin": 1.29,
+        "Technetium": 0.78
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138234,
+      "id64": 1909529516657592600,
+      "bodyId": 53,
+      "name": "Ra 10 c",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 50
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1223,
+      "isLandable": true,
+      "gravity": 0.1358896566862455,
+      "earthMasses": 0.004395,
+      "radius": 1147.019375,
+      "surfaceTemperature": 179,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 8.974075520833333,
+      "semiMajorAxis": 0.013844878127667093,
+      "orbitalEccentricity": 0.000354,
+      "orbitalInclination": -0.996072,
+      "argOfPeriapsis": 281.742554,
+      "rotationalPeriod": 8.974281684027778,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.030642,
+      "materials": {
+        "Iron": 19.72,
+        "Sulphur": 19.05,
+        "Carbon": 16.02,
+        "Nickel": 14.92,
+        "Phosphorus": 10.25,
+        "Manganese": 8.14,
+        "Zinc": 5.36,
+        "Selenium": 2.98,
+        "Molybdenum": 1.29,
+        "Antimony": 1.19,
+        "Tungsten": 1.08
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138258,
+      "id64": 1945558313676556500,
+      "bodyId": 54,
+      "name": "Ra 10 d",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 50
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1214,
+      "isLandable": true,
+      "gravity": 0.14644264995558717,
+      "earthMasses": 0.005471,
+      "radius": 1232.77575,
+      "surfaceTemperature": 176,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 11.781861979166667,
+      "semiMajorAxis": 0.016599894025095905,
+      "orbitalEccentricity": 0.001459,
+      "orbitalInclination": 0.002752,
+      "argOfPeriapsis": 349.160431,
+      "rotationalPeriod": 11.782132523148147,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.081711,
+      "materials": {
+        "Iron": 19.65,
+        "Sulphur": 18.98,
+        "Carbon": 15.96,
+        "Nickel": 14.86,
+        "Phosphorus": 10.22,
+        "Manganese": 8.11,
+        "Germanium": 5.63,
+        "Arsenic": 2.52,
+        "Tellurium": 1.46,
+        "Niobium": 1.34,
+        "Molybdenum": 1.28
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138302,
+      "id64": 1981587110695520500,
+      "bodyId": 55,
+      "name": "Ra 10 e",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 50
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1227,
+      "isLandable": false,
+      "gravity": 0.23104428828462262,
+      "earthMasses": 0.020538,
+      "radius": 1901.586,
+      "surfaceTemperature": 174,
+      "surfacePressure": 0.003268763464100666,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Thin Ammonia",
+      "atmosphereComposition": {
+        "Ammonia": 100
+      },
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 18.148116319444444,
+      "semiMajorAxis": 0.02214031085136294,
+      "orbitalEccentricity": 0.000066,
+      "orbitalInclination": -0.003798,
+      "argOfPeriapsis": 49.683449,
+      "rotationalPeriod": 18.14853153935185,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.38728,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138253,
+      "id64": 2233788689828268300,
+      "bodyId": 62,
+      "name": "Ra 11",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Class III gas giant",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1554,
+      "isLandable": false,
+      "gravity": 23.457970672326684,
+      "earthMasses": 2731.838623,
+      "radius": 68828.264,
+      "surfaceTemperature": 722,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": {
+        "Hydrogen": 71.1,
+        "Helium": 28.9
+      },
+      "solidComposition": null,
+      "terraformingState": null,
+      "orbitalPeriod": 2027.4375925925926,
+      "semiMajorAxis": 3.1163061255523607,
+      "orbitalEccentricity": 0.000661,
+      "orbitalInclination": -0.265985,
+      "argOfPeriapsis": 170.394089,
+      "rotationalPeriod": 0.9438063331944445,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 3.060993,
+      "rings": [
+        {
+          "name": "Ra 11 A Ring",
+          "type": "Metal Rich",
+          "mass": 195640000000,
+          "innerRadius": 124510,
+          "outerRadius": 147800
+        },
+        {
+          "name": "Ra 11 B Ring",
+          "type": "Rocky",
+          "mass": 6632200000000,
+          "innerRadius": 147900,
+          "outerRadius": 486660
+        }
+      ],
+      "reserveLevel": "Common",
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138267,
+      "id64": 2341875080885160400,
+      "bodyId": 65,
+      "name": "Ra 11 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1557,
+      "isLandable": true,
+      "gravity": 0.13046128762828427,
+      "earthMasses": 0.003899,
+      "radius": 1102.605875,
+      "surfaceTemperature": 228,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.87,
+        "Metal": 9.13,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 2.231966869212963,
+      "semiMajorAxis": 0.0067417686848132395,
+      "orbitalEccentricity": 0.001231,
+      "orbitalInclination": 0.054771,
+      "argOfPeriapsis": 105.533875,
+      "rotationalPeriod": 2.232174660011574,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.006865,
+      "materials": {
+        "Iron": 19.74,
+        "Sulphur": 19.06,
+        "Carbon": 16.03,
+        "Nickel": 14.93,
+        "Phosphorus": 10.26,
+        "Germanium": 5.65,
+        "Zinc": 5.37,
+        "Vanadium": 4.85,
+        "Cadmium": 1.53,
+        "Niobium": 1.35,
+        "Ruthenium": 1.22
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138232,
+      "id64": 2377903877904124400,
+      "bodyId": 66,
+      "name": "Ra 11 b",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1557,
+      "isLandable": true,
+      "gravity": 0.15385188107625336,
+      "earthMasses": 0.006304,
+      "radius": 1291.0445,
+      "surfaceTemperature": 220,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.71,
+        "Metal": 9.29,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 2.8998234953703705,
+      "semiMajorAxis": 0.008027180777246182,
+      "orbitalEccentricity": 0.00005,
+      "orbitalInclination": 0.007136,
+      "argOfPeriapsis": 228.197449,
+      "rotationalPeriod": -2.9000934968171297,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -3.111546,
+      "materials": {
+        "Iron": 19.08,
+        "Sulphur": 18.36,
+        "Carbon": 15.44,
+        "Nickel": 14.43,
+        "Phosphorus": 9.88,
+        "Chromium": 8.58,
+        "Manganese": 7.88,
+        "Zirconium": 2.22,
+        "Cadmium": 1.48,
+        "Tellurium": 1.41,
+        "Molybdenum": 1.25
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138295,
+      "id64": 2413932674923088400,
+      "bodyId": 67,
+      "name": "Ra 11 b a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 66
+        },
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1557,
+      "isLandable": true,
+      "gravity": 0.04384946279404566,
+      "earthMasses": 0.000169,
+      "radius": 395.95490625,
+      "surfaceTemperature": 220,
+      "surfacePressure": null,
+      "volcanismType": "Major Silicate Vapour Geysers",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 96.79,
+        "Metal": 3.21,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 0.2853196885879629,
+      "semiMajorAxis": 0.000022807072614302924,
+      "orbitalEccentricity": null,
+      "orbitalInclination": -68.769936,
+      "argOfPeriapsis": 131.928345,
+      "rotationalPeriod": 0.28912649649305555,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.26197,
+      "materials": {
+        "Sulphur": 21.64,
+        "Iron": 19.39,
+        "Carbon": 18.2,
+        "Nickel": 14.67,
+        "Phosphorus": 11.65,
+        "Vanadium": 4.76,
+        "Selenium": 3.39,
+        "Arsenic": 2.87,
+        "Molybdenum": 1.27,
+        "Yttrium": 1.16,
+        "Tin": 1.01
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138255,
+      "id64": 2449961471942052300,
+      "bodyId": 68,
+      "name": "Ra 11 c",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1548,
+      "isLandable": true,
+      "gravity": 0.23764343213547928,
+      "earthMasses": 0.022265,
+      "radius": 1952.238875,
+      "surfaceTemperature": 203,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.87,
+        "Metal": 9.13,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 5.462826244212963,
+      "semiMajorAxis": 0.012244101546560314,
+      "orbitalEccentricity": 0.002168,
+      "orbitalInclination": 0.055315,
+      "argOfPeriapsis": 358.38501,
+      "rotationalPeriod": 5.463334780092593,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.460581,
+      "materials": {
+        "Iron": 19.74,
+        "Sulphur": 19.05,
+        "Carbon": 16.02,
+        "Nickel": 14.93,
+        "Phosphorus": 10.26,
+        "Chromium": 8.88,
+        "Vanadium": 4.85,
+        "Zirconium": 2.29,
+        "Tellurium": 1.46,
+        "Niobium": 1.35,
+        "Tin": 1.17
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138238,
+      "id64": 2485990268961016300,
+      "bodyId": 69,
+      "name": "Ra 11 d",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1545,
+      "isLandable": true,
+      "gravity": 0.2521621134589435,
+      "earthMasses": 0.026389,
+      "radius": 2063.27,
+      "surfaceTemperature": 180,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.87,
+        "Metal": 9.13,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 16.623483796296295,
+      "semiMajorAxis": 0.02571165408973966,
+      "orbitalEccentricity": 0.000167,
+      "orbitalInclination": -0.023771,
+      "argOfPeriapsis": 66.442879,
+      "rotationalPeriod": 16.625031828703704,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -0.129293,
+      "materials": {
+        "Iron": 19.25,
+        "Sulphur": 18.58,
+        "Carbon": 15.63,
+        "Nickel": 14.56,
+        "Phosphorus": 10,
+        "Manganese": 7.95,
+        "Germanium": 5.51,
+        "Vanadium": 4.73,
+        "Tellurium": 1.43,
+        "Niobium": 1.32,
+        "Tungsten": 1.06
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138287,
+      "id64": 2522019065979980300,
+      "bodyId": 70,
+      "name": "Ra 11 e",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1575,
+      "isLandable": false,
+      "gravity": 0.23888216496666675,
+      "earthMasses": 0.0226,
+      "radius": 1961.7645,
+      "surfaceTemperature": 171,
+      "surfacePressure": 0.003493993890944979,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Thin Ammonia",
+      "atmosphereComposition": {
+        "Ammonia": 100
+      },
+      "solidComposition": {
+        "Rock": 90.87,
+        "Metal": 9.13,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 33.530405092592595,
+      "semiMajorAxis": 0.041046354491996125,
+      "orbitalEccentricity": 0.004461,
+      "orbitalInclination": 0.004052,
+      "argOfPeriapsis": 119.888046,
+      "rotationalPeriod": 33.53352719907407,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.339082,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138235,
+      "id64": 2558047862998944300,
+      "bodyId": 71,
+      "name": "Ra 11 f",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Icy body",
+      "parents": [
+        {
+          "Planet": 62
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 1554,
+      "isLandable": false,
+      "gravity": 0.41102636727662817,
+      "earthMasses": 0.354745,
+      "radius": 5925.2655,
+      "surfaceTemperature": 147,
+      "surfacePressure": 7.982163829262275,
+      "volcanismType": "Minor Nitrogen Magma",
+      "atmosphereType": "Thick Argon-rich",
+      "atmosphereComposition": {
+        "Nitrogen": 99.01,
+        "Argon": 0.99
+      },
+      "solidComposition": {
+        "Ice": 80.95,
+        "Rock": 16.27,
+        "Metal": 2.7
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 109.99817129629629,
+      "semiMajorAxis": 0.09062311318044716,
+      "orbitalEccentricity": null,
+      "orbitalInclination": -15.4873,
+      "argOfPeriapsis": 299.39743,
+      "rotationalPeriod": 110.00842592592592,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.480762,
+      "rings": [
+        {
+          "name": "Ra 11 f A Ring",
+          "type": "Rocky",
+          "mass": 44361000,
+          "innerRadius": 11296,
+          "outerRadius": 24644
+        }
+      ],
+      "reserveLevel": "Common",
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138290,
+      "id64": 2738191848093764000,
+      "bodyId": 76,
+      "name": "Ra 12",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Star",
+      "subType": "Y (Brown dwarf) Star",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 2286,
+      "isMainStar": false,
+      "isScoopable": false,
+      "age": 2958,
+      "spectralClass": "Y0",
+      "luminosity": "V",
+      "absoluteMagnitude": 19.298279,
+      "solarMasses": 0.03125,
+      "solarRadius": 0.11145019122933142,
+      "surfaceTemperature": 677,
+      "orbitalPeriod": 3614.412222222222,
+      "semiMajorAxis": 4.581773274450757,
+      "orbitalEccentricity": 0.000799,
+      "orbitalInclination": 0.006773,
+      "argOfPeriapsis": 132.754883,
+      "rotationalPeriod": 1.0337653718171295,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -1.366477,
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138298,
+      "id64": 2882307036169620000,
+      "bodyId": 80,
+      "name": "Ra 13",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Star",
+      "subType": "Y (Brown dwarf) Star",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4071,
+      "isMainStar": false,
+      "isScoopable": false,
+      "age": 2958,
+      "spectralClass": "Y4",
+      "luminosity": "V",
+      "absoluteMagnitude": 23.309464,
+      "solarMasses": 0.011719,
+      "solarRadius": 0.06375121782890007,
+      "surfaceTemperature": 360,
+      "orbitalPeriod": 8581.443703703704,
+      "semiMajorAxis": 8.15421294768469,
+      "orbitalEccentricity": 0.0019,
+      "orbitalInclination": 1.343953,
+      "argOfPeriapsis": 318.021393,
+      "rotationalPeriod": 1.614749710648148,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 3.132055,
+      "rings": [
+        {
+          "name": "Ra 13 A Ring",
+          "type": "Metal Rich",
+          "mass": 191940000000,
+          "innerRadius": 80015,
+          "outerRadius": 125620
+        },
+        {
+          "name": "Ra 13 B Ring",
+          "type": "Rocky",
+          "mass": 6450000000000,
+          "innerRadius": 125720,
+          "outerRadius": 575290
+        }
+      ],
+      "reserveLevel": null,
+      "updateTime": "2019-01-23 01:44:34"
+    },
+    {
+      "id": 8138276,
+      "id64": 2990393427226512000,
+      "bodyId": 83,
+      "name": "Ra 13 a",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4066,
+      "isLandable": true,
+      "gravity": 0.08183909200937452,
+      "earthMasses": 0.000982,
+      "radius": 698.6503125,
+      "surfaceTemperature": 80,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.61,
+        "Metal": 9.39,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 4.294881365740741,
+      "semiMajorAxis": 0.012328703392434047,
+      "orbitalEccentricity": 0.000582,
+      "orbitalInclination": 0.057679,
+      "argOfPeriapsis": 18.315937,
+      "rotationalPeriod": -4.294918619791667,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": -2.803271,
+      "materials": {
+        "Iron": 19.74,
+        "Sulphur": 18.96,
+        "Carbon": 15.94,
+        "Nickel": 14.93,
+        "Phosphorus": 10.21,
+        "Chromium": 8.88,
+        "Germanium": 5.62,
+        "Zirconium": 2.29,
+        "Tin": 1.18,
+        "Yttrium": 1.18,
+        "Tungsten": 1.08
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138281,
+      "id64": 3026422224245476000,
+      "bodyId": 84,
+      "name": "Ra 13 b",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4064,
+      "isLandable": true,
+      "gravity": 0.07439903158502474,
+      "earthMasses": 0.000743,
+      "radius": 637.375375,
+      "surfaceTemperature": 80,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 8.014781539351851,
+      "semiMajorAxis": 0.018687206729072782,
+      "orbitalEccentricity": 0.000708,
+      "orbitalInclination": 0.00039,
+      "argOfPeriapsis": 94.852913,
+      "rotationalPeriod": 8.014850983796297,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.06513,
+      "materials": {
+        "Iron": 19.18,
+        "Sulphur": 18.52,
+        "Carbon": 15.57,
+        "Nickel": 14.5,
+        "Phosphorus": 9.97,
+        "Chromium": 8.62,
+        "Manganese": 7.92,
+        "Selenium": 2.9,
+        "Cadmium": 1.49,
+        "Mercury": 0.84,
+        "Polonium": 0.49
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138299,
+      "id64": 3062451021264440000,
+      "bodyId": 85,
+      "name": "Ra 13 c",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4066,
+      "isLandable": true,
+      "gravity": 0.06826888921404223,
+      "earthMasses": 0.000577,
+      "radius": 586.3555,
+      "surfaceTemperature": 80,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 10.49675708912037,
+      "semiMajorAxis": 0.02236935026107962,
+      "orbitalEccentricity": 0.000447,
+      "orbitalInclination": -0.000804,
+      "argOfPeriapsis": 236.605591,
+      "rotationalPeriod": 10.496848234953704,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": -0.506918,
+      "materials": {
+        "Iron": 20.22,
+        "Sulphur": 19.53,
+        "Carbon": 16.42,
+        "Nickel": 15.29,
+        "Phosphorus": 10.51,
+        "Germanium": 5.79,
+        "Zinc": 5.5,
+        "Zirconium": 2.35,
+        "Cadmium": 1.57,
+        "Tellurium": 1.5,
+        "Molybdenum": 1.32
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138242,
+      "id64": 3098479818283404000,
+      "bodyId": 86,
+      "name": "Ra 13 d",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky body",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4079,
+      "isLandable": true,
+      "gravity": 0.13712974084370197,
+      "earthMasses": 0.004514,
+      "radius": 1157.176125,
+      "surfaceTemperature": 80,
+      "surfacePressure": null,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "No atmosphere",
+      "atmosphereComposition": null,
+      "solidComposition": {
+        "Rock": 90.88,
+        "Metal": 9.12,
+        "Ice": 0
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 29.133784722222223,
+      "semiMajorAxis": 0.04417887052185162,
+      "orbitalEccentricity": 0.004978,
+      "orbitalInclination": -0.224584,
+      "argOfPeriapsis": 254.823303,
+      "rotationalPeriod": 29.134036458333334,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.190507,
+      "materials": {
+        "Iron": 18.51,
+        "Sulphur": 17.88,
+        "Carbon": 15.03,
+        "Nickel": 14,
+        "Phosphorus": 9.62,
+        "Chromium": 8.33,
+        "Manganese": 7.64,
+        "Germanium": 5.3,
+        "Cadmium": 1.44,
+        "Ruthenium": 1.14,
+        "Tin": 1.1
+      },
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138291,
+      "id64": 3134508615302367700,
+      "bodyId": 87,
+      "name": "Ra 13 e",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky Ice world",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4047,
+      "isLandable": false,
+      "gravity": 0.14108008776118083,
+      "earthMasses": 0.007484,
+      "radius": 1468.989,
+      "surfaceTemperature": 203,
+      "surfacePressure": 27.391125092524056,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Thick Methane",
+      "atmosphereComposition": {
+        "Methane": 99.78,
+        "Sulphur dioxide": 0.17
+      },
+      "solidComposition": {
+        "Rock": 69.21,
+        "Ice": 23.77,
+        "Metal": 7.02
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 44.986177662037036,
+      "semiMajorAxis": 0.05902047641912058,
+      "orbitalEccentricity": 0.000095,
+      "orbitalInclination": 0.141641,
+      "argOfPeriapsis": 196.484192,
+      "rotationalPeriod": 44.98656539351852,
+      "rotationalPeriodTidallyLocked": true,
+      "axialTilt": 0.668511,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138245,
+      "id64": 3170537412321331700,
+      "bodyId": 88,
+      "name": "Ra 13 f",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Rocky Ice world",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4032,
+      "isLandable": false,
+      "gravity": 0.09414125138963301,
+      "earthMasses": 0.002307,
+      "radius": 998.431625,
+      "surfaceTemperature": 185,
+      "surfacePressure": 12.420931408832963,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Thick Methane",
+      "atmosphereComposition": {
+        "Methane": 100
+      },
+      "solidComposition": {
+        "Rock": 68.84,
+        "Ice": 24.25,
+        "Metal": 6.91
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 108.44162037037037,
+      "semiMajorAxis": 0.10610779475486211,
+      "orbitalEccentricity": 0.000259,
+      "orbitalInclination": -0.080696,
+      "argOfPeriapsis": 82.772499,
+      "rotationalPeriod": 1.041615035451389,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.266584,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138286,
+      "id64": 3206566209340295700,
+      "bodyId": 89,
+      "name": "Ra 13 g",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Icy body",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4003,
+      "isLandable": false,
+      "gravity": 0.16368400220847387,
+      "earthMasses": 0.028153,
+      "radius": 2645.11,
+      "surfaceTemperature": 140,
+      "surfacePressure": 1.275431856037503,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Methane",
+      "atmosphereComposition": {
+        "Methane": 100
+      },
+      "solidComposition": {
+        "Ice": 82.38,
+        "Rock": 16.01,
+        "Metal": 1.61
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 163.29041666666666,
+      "semiMajorAxis": 0.13939817318536204,
+      "orbitalEccentricity": 0.002802,
+      "orbitalInclination": 2.662625,
+      "argOfPeriapsis": 180.43306,
+      "rotationalPeriod": 3.5617914496527776,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.146763,
+      "updateTime": "2019-03-30 14:31:23"
+    },
+    {
+      "id": 8138248,
+      "id64": 3242595006359259600,
+      "bodyId": 90,
+      "name": "Ra 13 h",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Icy body",
+      "parents": [
+        {
+          "Star": 80
+        },
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 4160,
+      "isLandable": false,
+      "gravity": 0.16764800677491545,
+      "earthMasses": 0.03015,
+      "radius": 2704.7615,
+      "surfaceTemperature": 141,
+      "surfacePressure": 1.3380000925240562,
+      "volcanismType": "No volcanism",
+      "atmosphereType": "Methane",
+      "atmosphereComposition": {
+        "Methane": 100
+      },
+      "solidComposition": {
+        "Ice": 82.38,
+        "Rock": 16.01,
+        "Metal": 1.61
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 247.90525462962964,
+      "semiMajorAxis": 0.18413678129978891,
+      "orbitalEccentricity": 0.002078,
+      "orbitalInclination": -15.026977,
+      "argOfPeriapsis": 101.058662,
+      "rotationalPeriod": 1.257642505787037,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.192718,
+      "updateTime": "2019-03-17 10:12:35"
+    },
+    {
+      "id": 8138274,
+      "id64": 3422738991454079500,
+      "bodyId": 95,
+      "name": "Ra 14",
+      "discovery": {
+        "commander": "Redfoxxx",
+        "date": "2017-09-26 19:54:37"
+      },
+      "type": "Planet",
+      "subType": "Icy body",
+      "parents": [
+        {
+          "Star": 0
+        }
+      ],
+      "distanceToArrival": 9431,
+      "isLandable": false,
+      "gravity": 0.5276080333796625,
+      "earthMasses": 0.439794,
+      "radius": 5823.0895,
+      "surfaceTemperature": 39,
+      "surfacePressure": 0.002639614942018258,
+      "volcanismType": "Water Magma",
+      "atmosphereType": "Thin Neon",
+      "atmosphereComposition": {
+        "Neon": 100
+      },
+      "solidComposition": {
+        "Ice": 56.2,
+        "Rock": 29,
+        "Metal": 14.8
+      },
+      "terraformingState": null,
+      "orbitalPeriod": 51139.95851851852,
+      "semiMajorAxis": 26.80291627696276,
+      "orbitalEccentricity": 0.295106,
+      "orbitalInclination": 119.285515,
+      "argOfPeriapsis": 320.909943,
+      "rotationalPeriod": 1.107444118923611,
+      "rotationalPeriodTidallyLocked": false,
+      "axialTilt": 0.094382,
+      "updateTime": "2019-01-23 01:44:34"
+    }
+  ]
+}
